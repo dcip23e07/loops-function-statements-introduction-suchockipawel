@@ -31,4 +31,5 @@ def atm():
                 if another_transaction == 'no':
                     print("Thank you. Have a nice day!")
                     break
+
 atm()
